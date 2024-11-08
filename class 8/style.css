@@ -1,0 +1,19 @@
+.heading{
+    color: rgb(69, 69, 95);
+    background-color: antiquewhite;
+}
+#city{
+    background-color: brown;
+    color: black;
+    text-align: center;
+    text-decoration: underline,double,dotted;
+}
+h1{
+     color: aqua; */
+    text-align: ::backdrop;
+    text-decorationline: inherit;
+}
+ h2{
+    color: brown;
+ }
+ 

@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: blue;
+    
+    border-radius: 50%;
+    border-color: black;
+}
+#paragraph{
+    text-align:center;
+    color: aqua;
+}
+.center{
+    text-align:right,center;
+}
+h3{
+    color: blue;
+    text-align: center;
+
+}
+p{
+    outline-style: double;
+    color: blue;
+}

@@ -1,0 +1,26 @@
+h1{
+    font-style: italic;
+ text-decoration:underline;
+ text-decoration:wavy;
+ text-align: center;
+ color: blue;
+ text-decoration:underline;
+ font-size: 50px;
+ 
+}
+ .para::first-letter{color: #1db937;
+   
+    font-weight:bold;
+    font-weight: italic;
+    font-size: 30px;
+    line-height:2;
+    text-align: justify;
+}
+/* .dot{color: rgb(219, 24, 24);
+    text-transform:capitalize;
+    font-weight: bold;
+    text-decoration: line-through;
+    text-decoration:  overline;
+    font-size: large;
+
+}
